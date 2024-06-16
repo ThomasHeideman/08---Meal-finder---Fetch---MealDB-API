@@ -1,16 +1,19 @@
-# Project Name
+# Meal Finder App
 
-    There are only two kinds of programming languages: those people always bitch about and those nobody uses. (Bjarne Stroustrup)
+    Search and generate random meals from the themealdb.com API
 
 # Project Specifications
 
     HTML/CSS:
-        ✅ The best method for accelerating a computer is the one that boosts it by 9.8 m/s2. (Anonymous)
+        ✅ Display UI with form to search and button to generate
+        ✅ Added basic responsiveness for small screen devices
 
 
     JS:
-        ✅ Controlling complexity is the essence of computer programming. (Brian Kernigan)
-        ✅ Good code is its own best documentation. (Steve McConnell)
-        ✅ To err is human, but to really foul things up you need a computer. (Paul Ehrlich)
-        ✅ If Java had true garbage collection, most programs would delete themselves upon execution. (Robert Sewell)
-        ✅ 19 Jan 2038 at 3:14:07 AM (End of the word according to Unix–2^32 seconds after January 1, 1970)
+        ✅ Connect to API and get meals
+        ✅ Display meals in DOM with image and hover effect
+        ✅ Click on meal and see the details
+        ✅ Click on generate button and fetch & display a random meal
+
+    Bonus
+        ✅ Made category and region/origin on single meals clickable, to search for dishes from same category or region.
